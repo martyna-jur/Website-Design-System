@@ -1,0 +1,166 @@
+* {
+	background-color: #d4daf4;
+	text-align: center;
+    font-family: 'Gelasio', serif;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+ 	padding: 40px 33px;
+    color: #414547;
+    margin-top: 0;
+    padding-top: 50px;
+    font-size: 42px;
+
+}
+
+ /*COLORS SECTION*/
+
+.colors li {
+	display: inline;
+	margin-right: -4px;
+	margin-left: -1px;
+	margin-bottom: 40px;
+	padding: 30px 40px 120px 40px;
+	writing-mode: vertical-rl;
+	height: 10%;
+}
+
+ul {
+	padding-left: 15px;
+}
+
+.color1 {
+	background-color: #b3b24a;
+}
+
+.color2 {
+	background-color: #6d8215;
+}
+
+.color3 {
+	background-color: #dfc58f;
+}
+
+.color4 {
+	background-color: #b6b566;
+}
+
+.color5 {
+	background-color: #cdbf44;
+}
+
+.color6 {
+	background-color: #f9a031;
+}
+
+.h2colors {
+	padding: 15px;
+
+}
+
+ /*FONTS SECTION*/
+
+ h2 {
+ 	font-size: 30px;
+    color: #414547;
+ }
+
+.fonts {
+	padding: 15px;
+	border: 1px solid #414547;
+	display: inline-block;
+	background-color: #edf4f6;
+	height: 100%;
+	width: 40%;
+	text-align: center;
+
+}
+
+#roboto {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 15px;
+	background-color: #edf4f6;
+}
+
+#nunito {
+	font-family: 'Nunito', sans-serif;
+	padding-top: 15px;
+	background-color: #edf4f6;
+}
+
+#libre {
+	font-family: 'Libre Baskerville', serif;
+	background-color: #edf4f6;
+}
+
+.regular {
+	text-transform: normal;
+	background-color: #edf4f6;
+}
+
+.italic {
+	font-style: italic;
+	background-color: #edf4f6;
+}
+
+.bold {
+	font-weight: 700;
+	background-color: #edf4f6;
+}
+
+.h2fonts {
+	background-color: #edf4f6;
+}
+
+h3 {
+	background-color: #edf4f6;
+}
+
+/*TEXTSTYLES SECTION*/
+
+.textstyles {
+	padding: 15px;
+	border: 1px solid #414547;
+	display: inline-block;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: #edf4f6;
+	height: 100%;
+	width: 40%;
+	margin-left: 20px;
+	text-align: center;
+}
+
+.textstyles h1 {
+	font-size: 20px;
+	padding: 0;
+	background-color: #edf4f6;
+}
+
+.textstyles h2 {
+	font-size: 20px;
+	background-color: #edf4f6;
+}
+
+.textstyles p {
+	font-size: 20px;
+	background-color: #edf4f6;
+}
+
+.textstyles ul {
+	display: inline-block;
+	list-style-type: circle;
+	background-color: #edf4f6;
+}
+
+.textstyles li {
+	background-color: #edf4f6;
+}
+
+.h2textstyles {
+	font-size: 30px !important;
+	background-color: #edf4f6;
+}
+
